@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519514403131",
+    "project_id": "xasuustus",
+    "storage_bucket": "xasuustus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519514403131:android:de18a5ca1624c69b2f871e",
+        "android_client_info": {
+          "package_name": "com.shareey.xasuus_tus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519514403131-9hl3c2b1t0fvp23cemiqb6bcd0lbgcov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvH7iPlFMSnBIq9u72au3ZimMGagivsNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519514403131-9hl3c2b1t0fvp23cemiqb6bcd0lbgcov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
